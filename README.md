@@ -2,7 +2,7 @@
 
 A cross-platform smart farming assistant built with Flutter. Farm IT helps users monitor and manage their farm environment, providing educational games for kids, weather insights, sensor data, and more.
 
-**Official website:** [farmit.ma](https://farmit.ma)
+**Official website :** [farmit.ma](https://farmit.ma)
 
 ## Features
 - Real-time weather and sensor data visualization
