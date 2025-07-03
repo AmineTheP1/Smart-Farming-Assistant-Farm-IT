@@ -10,7 +10,9 @@ A cross-platform smart farming assistant built with Flutter. Farm IT helps users
 - Multi-platform support: Android, iOS, Web, Windows, Linux, macOS
 
 ## Screenshots
-Add screenshots of your app here (e.g. `Screenshot_20250501_205232.png`).
+
+![Login](https://github.com/user-attachments/assets/0f4acc45-93f3-4440-80a7-463583a83241) 
+![Sign up](https://github.com/user-attachments/assets/4cc0f7cb-59aa-4015-a23f-5d139355b744)
 
 ## Getting Started
 
