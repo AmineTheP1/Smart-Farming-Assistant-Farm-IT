@@ -11,9 +11,11 @@ A cross-platform smart farming assistant built with Flutter. Farm IT helps users
 
 ## Screenshots
 
-![Login](https://github.com/user-attachments/assets/0f4acc45-93f3-4440-80a7-463583a83241) 
-![Sign up](https://github.com/user-attachments/assets/4cc0f7cb-59aa-4015-a23f-5d139355b744)
-
+![1](https://github.com/user-attachments/assets/2680e1d3-5b6f-4685-a2b5-c43efcd43528)
+![2](https://github.com/user-attachments/assets/38abdd6a-8115-4590-af0b-df616a5421f6)
+![3](https://github.com/user-attachments/assets/37f137e1-2935-49ff-9a2f-d26b1bdfc56a)
+![4](https://github.com/user-attachments/assets/f334e595-a06c-4d45-a4a7-d3503de8012a)
+![5](https://github.com/user-attachments/assets/64c9f080-3dae-4782-bce9-71b447d664b9)
 ## Getting Started
 
 ### Prerequisites
